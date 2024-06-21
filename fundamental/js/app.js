@@ -1,7 +1,7 @@
 
 const people = [
     {
-        name: "Juan",
+        name: 'Juan',
         age: 38
     },
     {
@@ -21,10 +21,3 @@ let a = 10, b = 20, c = 30;
 console.log ( {a} );
 
 console.table ( { a, b, c} );
-
-// Solo funciona con el objeto window del navegador
-// const valor = prompt( "Ingresar valor");
-
-// Solo funciona con el objeto window del navegador
-// const opt = confirm("Esta seguro?");
-// console.log( opt );
