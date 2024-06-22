@@ -39,3 +39,9 @@ things.push('last');
 console.log( things );
 
 console.log( things.indexOf( 'Gaia' ) );
+
+const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+
+const day = new Date();
+
+console.log( 'day:', days[day.getDay()] );
