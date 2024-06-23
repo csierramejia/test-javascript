@@ -9,7 +9,7 @@ let things = [
     ['X', 'Y', 'Z']
 ];
 
-console.log( things );
+console.log( 'things', things );
 
 things.forEach(element => {
     //console.log( element );
