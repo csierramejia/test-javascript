@@ -1,4 +1,4 @@
-
+//import { Person } from './classes/Person.js';
 person = {
 
     name: 'Juan',
